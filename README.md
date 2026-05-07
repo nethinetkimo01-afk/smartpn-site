@@ -16,6 +16,7 @@ This repository supports the LinkedIn + website publishing pipeline:
 - Build command: none
 - Publish directory: `.`
 - Production domain: `smartpn.com.tw`
+- Continuous deployment source: `nethinetkimo01-afk/smartpn-site`, branch `main`
 
 ## Product Positioning
 
